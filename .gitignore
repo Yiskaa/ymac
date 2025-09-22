@@ -1,2 +1,2 @@
 *.txt
-flask_session
+flask_session/
